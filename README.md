@@ -1,4 +1,5 @@
-## Regression analysis
+### Regression analysis
+Programming home assignments on Regression analysis class taken in scope of BSc in Applied Mathematics at the Lviv Polytechnic National University.
 * lab1 - Calculation of the Ordinary Least Squares (OLS) estimate of the classical linear regression model on the interval.
 * lab2.py - Hypothesis testing of the normal regression parameter for the classical linear regression model.
 * lab3.py - Linear hypotheses testing of normal regression parameters using the F-test.
